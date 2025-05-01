@@ -1,2 +1,2 @@
-MAKE SURE TO EXECUTE COMMAND: PIP INSTALL PYAUDIO
+MAKE SURE TO EXECUTE COMMAND: PIP INSTALL PYAUDIO <br>
 This project demonstrates how two computers can communicate over a LAN connection to stream audio in real-time. One computer acts as the sender (host) that captures live audio through a microphone and transmits it over a network. The second computer acts as the receiver (client) that plays the transmitted audio via its speakers.
